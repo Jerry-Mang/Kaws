@@ -2,9 +2,13 @@ body{
 font-family:  Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 color: #9CB4C8;
 margin: 0px;
-background-color: #071928;
+background-color: lightblue;
 font-style: normal;
 font-weight: 300;
+
+
+
+ 
 }
 .clearfix::after{
 content: "";
